@@ -1,4 +1,5 @@
 changes
+Change 2
 <p align="center">
 <a href="https://ci.appveyor.com/project/shakyShane/browser-sync" title="AppVeyor branch">
  <img src="https://img.shields.io/appveyor/ci/shakyshane/browser-sync/master.svg?style=flat-square&label=windows" />
